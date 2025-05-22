@@ -7,12 +7,12 @@ conhecimentos sobre layout com Flexbox e efeitos visuais com pseudo-classes e tr
 
 ## ✅ Recursos aplicados
 
-- **Pseudo-classes**: `:hover` e `:focus`
-- **Transformações**: `scale()` e `translateY()`
+- **Pseudo-classes**: `:hover` e `:active`
+- **Transformações**: `scale()` e `rotate()`
 
 ## 👤 Desenvolvido por
 
 Daniel Laureano da Luz
-## 🌐 Site publicado
+## 🔗 Links
 
-Acesse o site pelo GitHub Pages: 
+Acesse o site pelo GitHub Pages:  [🚀 Link para o site](https://daniel-laureano.github.io/checkpoint03-flexbox/)
